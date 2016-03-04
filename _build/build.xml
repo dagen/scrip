@@ -1,0 +1,16 @@
+<project name="dagen_apps" default="deploy" basedir=".">
+    <description>
+        I copy my updates files to /var/sites/apps.dagen.net/scrip
+    </description>
+    
+    <!--  A sample file target to deploy code	 -->
+    <target name="deploy">
+		<copy todir="/var/sites/apps.dagen.net/scrip/">
+			<fileset dir=".">
+				<exclude name="**/*.java"/>
+			</fileset>
+		</copy>
+        
+    </target>
+    
+</project>

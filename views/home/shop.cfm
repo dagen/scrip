@@ -1,0 +1,1 @@
+<h2>Your SCRIP Cart is empty.</h2>

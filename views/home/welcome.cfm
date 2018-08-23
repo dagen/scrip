@@ -2,7 +2,7 @@
 	
 		
 	<div class="hero-unit">
-        <h1>Welcome to St. Cecilia SCRIP!</h1>
+        <h1>Welcome to theSt. Cecilia SCRIP!</h1>
         <p>Did you know that you can financially support St. Cecilia School at no additional cost to you?  Just pre-purchase gift cards
 		for your favorite stores at face value <em>before</em> you shop.</p>
         <p><a class="btn btn-primary btn-large" href="#buildURL('cart.shop')#">Start Shopping &raquo;</a></p>

@@ -1,5 +1,5 @@
 <h2 class="title">Contact Us</h2>
-<p>You can contact Heather with questions or special requests:</p>
+<p>You can contact the PA Coordinator with questions or special requests:</p>
 
 <ul>
 	<li><a href="mailto:mroe@stceciliaschool.us?subject=Scrip Questions">mroe@stceciliashool.us</a></li>

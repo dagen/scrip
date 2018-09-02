@@ -2,6 +2,6 @@
 <p>You can contact Heather with questions or special requests:</p>
 
 <ul>
-	<li><a href="mailto:heather@dagen.net?subject=Scrip Questions">heather@dagen.net</a></li>
-	<li>(503) 848-2507</li>
+	<li><a href="mailto:mroe@stceciliaschool.us?subject=Scrip Questions">mroe@stceciliashool.us</a></li>
+	<li>(503) 516-1684</li>
 </ul>

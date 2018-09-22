@@ -17,7 +17,7 @@
 <a class="brand">St. Cecilia SCRIP:</a>
 <div class="nav-collapse collapse">
 	<p class="navbar-text pull-right">
-		<a href="http://dagen.net/" class="navbar-link">dagen.net</a>
+		<a href="http://www.stceciliaschool.us" class="navbar-link">St. Cecilia School</a>
 	</p>
 	<ul class="nav">
 		<li class="#stSections['home']#"><a href="#buildURL('home.welcome')#">Home</a></li>

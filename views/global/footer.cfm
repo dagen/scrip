@@ -1,7 +1,7 @@
 <cfoutput>
 	<div class="container">
 		<p class="small">
-			Site Programming and Hosting by <a href="mailto:mroe@stceciliaschool.us">Your PA Coordinator</a>.
+			Questions? Contact your <a href="mailto:mroe@stceciliaschool.us">Scrip Coordinator</a>.
 			<!--- &nbsp;&nbsp;&nbsp;&nbsp;
 			<a href="index.cfm?reload=true">Reload Framework</a> |
 			<a href="index.cfm?clearsession=true">Clear Session</a> |

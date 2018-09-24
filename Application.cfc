@@ -80,6 +80,7 @@ component extends="framework" {
 		if (structKeyExists(url, 'clearsession')) {
 			setupSession();
 		}
+	
 
 	}
 
@@ -90,4 +91,23 @@ component extends="framework" {
 		session.userinfo.displayname = "guest";
 		session.order = CreateObject("Component", "services.order").init();
 	}
+	
+	function setupApplication() {
+		application.email = structNew();
+
+		application.email.fromaddress = "orders@stcscrip.us";
+		application.email.subject = "St. Cecilia Scrip Order";
+
+	}
+	
+	this.mailservers =[ {
+	  host: 'smtp.gmail.com', 
+	  port: 587, 
+	  username: 'damon@dagen.net', 
+	  password: 'encrypted:9cd6877252942568569ffd87b1e7e083c6d7df8b0409c9d3dca8a2952ddf77f5', 
+	  ssl: false, 
+	  tls: true, 
+	  lifeTimespan: createTimeSpan(0,0,1,0), 
+	  idleTimespan: createTimeSpan(0,0,0,10)
+	}];
 }

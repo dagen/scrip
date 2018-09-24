@@ -131,12 +131,10 @@
 			
 			
 			<cfset mailAttributes = {
-				server="smtp.gmail.com",
-				username="mroe@stceciliaschool.us",
-				password="!@Mercy01",
-				from="orders@stcscrip.us",
 				to="#arguments.emailAddress#",
-				subject="Scrip Online! Order"
+				from="#application.email.fromaddress#",
+				subject="#application.email.subject#"
+				
 				}
 				/>
 			

@@ -144,6 +144,7 @@
 			<cfmail 
 					to="#email#" 
 					from="#arguments.emailAddress#" 
+					replyto="mroe@stceciliaschool.us"
 					subject="SCRIP ORDER"  
 					type="html">
 				<cfoutput>#strEmailBody#</cfoutput>

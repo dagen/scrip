@@ -22,7 +22,7 @@
 		</div>
 
 		<div class="span4">
-			<h>Place Order</h3>
+			<h3>Place Order</h3>
 			<p>An email will be sent with your 'order' by email to the SCRIP admin and you'll be contacted to confirm your order.  She'll prepare your scrip cards for pickup at school or to be sent home with your student.</p>
 		</div>
         <div class="span4">

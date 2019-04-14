@@ -3,7 +3,7 @@
 
 	<div class="hero-unit">
         <h1>Welcome to theSt. Cecilia SCRIP!</h1>
-        <p>Did you know that you can financially support St. Cecilia School at no additional cost to you?  Just pre-purchase gift cards
+        <p>Did you know that you can financially support St. Cecilia School at no additional cost or effort?  Just pre-purchase gift cards
 		for your favorite stores at face value <em>before</em> you shop.</p>
         <p><a class="btn btn-primary btn-large" href="#buildURL('cart.shop')#">Start Shopping &raquo;</a></p>
       </div>
@@ -23,12 +23,12 @@
 
 		<div class="span4">
 			<h3>Place Order</h3>
-			<p>An email will be sent with your 'order' by email to the SCRIP admin and you'll be contacted to confirm your order.</p>  
-			<p>Then she will prepare your scrip cards for pickup at school or to be sent home with your student.</p>
+			<p>An email will be sent with your 'order' by email to the SCRIP coordinator and you'll be contacted to confirm your order.</p>  
+			<p>The coordinator will prepare your SCRIP cards for pickup at school or to be sent home with your student.</p>
 		</div>
         <div class="span4">
 			<h3>Feel good</h3>
-			<p>Feel good that you've helped out our school.  It's the easiest way to show your support for St. Cecilia School!</p>
+			<p>Feel good that you've helped without much effort.  It's the easiest way to show your support for St. Cecilia School!</p>
 		</div>
 
 	</div>

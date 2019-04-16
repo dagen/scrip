@@ -23,12 +23,13 @@
 
 		<div class="span4">
 			<h3>Place Order</h3>
-			<p>An email will be sent with your 'order' by email to the SCRIP coordinator and you'll be contacted to confirm your order.</p>  
+			<p>An email will be sent with your 'order' by email to the SCRIP coordinator and you'll be contacted to confirm your order.</p>
 			<p>The coordinator will prepare your SCRIP cards for pickup at school or to be sent home with your student.</p>
 		</div>
         <div class="span4">
 			<h3>Feel good</h3>
 			<p>Feel good that you've helped without much effort.  It's the easiest way to show your support for St. Cecilia School!</p>
+			<p>Please let your SCRIP coordinator know if Paypal is an option for you! </p>
 		</div>
 
 	</div>

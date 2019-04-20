@@ -2,7 +2,7 @@
 
 
 	<div class="hero-unit">
-        <h1>Welcome to the St. Cecilia SCRIP program!</h1>
+        <h1>Welcome to the St. Cecilia SCRIP program.</h1>
         <p>Did you know that you can financially support St. Cecilia School at no additional cost or effort?  Just pre-purchase gift cards
 		for your favorite stores at face value <em>before</em> you shop.</p>
         <p><a class="btn btn-primary btn-large" href="#buildURL('cart.shop')#">Start Shopping &raquo;</a></p>
@@ -29,6 +29,7 @@
         <div class="span4">
 			<h3>Feel good</h3>
 			<p>Feel good that you've helped without much effort.  It's the easiest way to show your support for St. Cecilia School!</p>
+			<p></p>
 			<p>Please let your SCRIP coordinator know if Paypal is an option for you! </p>
 		</div>
 
